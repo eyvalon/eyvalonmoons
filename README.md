@@ -4,7 +4,7 @@
 <img src="https://emoons.eyvalongames.de/img/eyvalonmoons.png">
 </p>
 
-The browsergame framework is based on the New-Star web browser game engine [New-Star](https://github.com/Yaro2709/New-Star)
+The browsergame framework is based on the New-Star web browser game engine [New-Star](https://github.com/Yaro2709/New-Star)</br>
 and the open source browsergame framework [2Moons](https://github.com/jkroepke/2Moons). 
 
 Full source code is placed at [https://github.com/eyvalon/EyvalonMoons](https://github.com/eyvalon/EyvalonMoons) repository.

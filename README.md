@@ -51,6 +51,6 @@ There are many things to modify starting from **graphics, languages, code improv
 EyvalonMoons is based on [2Moons](https://github.com/jkroepke/2Moons) and is a Fork of [New-Star](https://github.com/Yaro2709/New-Star)
 
 Code copyright 2009-2016 Jan-Otto Kröpke released under the MIT License.</br>
-Code copyright 2020 Yaroslav Tsvira released under the MIT License.</br>
+Code copyright 2020-2022.01 Yaroslav Tsvira released under the MIT License.</br>
 
-**Code copyright 2022 EyvalonGames - Stefan Peters released under the MIT License.**
+**Code copyright 2022.02 EyvalonGames - Stefan Peters released under the MIT License.**

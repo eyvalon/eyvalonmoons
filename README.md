@@ -54,4 +54,4 @@ EyvalonMoons is based on [2Moons](https://github.com/jkroepke/2Moons) and is a F
 Code copyright 2009-2016 Jan-Otto Kröpke released under the MIT License.</br>
 Code copyright 2020-2022.01 Yaroslav Tsvira released under the MIT License.</br>
 
-**Changed Code copyright 2022.02 EyvalonGames - Stefan Peters released under the MIT License.**
+**Changed Code copyright 2022.02 Stefan Peters released under the MIT License.**

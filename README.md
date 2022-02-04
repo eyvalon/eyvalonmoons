@@ -9,7 +9,7 @@ The browsergame framework is based on the New-Star web browser game engine
 and the open source browsergame framework
 [2Moons - github.com/jkroepke/2Moons](https://github.com/jkroepke/2Moons). 
 
-The browsergame is for the Eyvalon Community purposes. The opportunity was given to change the game code by the Eyvalonier as a contribution to 2Moons.
+The browsergame is for the Eyvalon Community purposes. The opportunity was given to change the game code by the Eyvaloniers as a contribution to 2Moons.
 There are many things to modify starting from **graphics, languages, code improvements up to EyvalonGames integration and bughunting**.
 
 ## Repository structure
@@ -54,4 +54,4 @@ EyvalonMoons is based on [2Moons](https://github.com/jkroepke/2Moons) and is a F
 Code copyright 2009-2016 Jan-Otto Kröpke released under the MIT License.</br>
 Code copyright 2020-2022.01 Yaroslav Tsvira released under the MIT License.</br>
 
-**Code copyright 2022.02 EyvalonGames - Stefan Peters released under the MIT License.**
+**Changed Code copyright 2022.02 EyvalonGames - Stefan Peters released under the MIT License.**

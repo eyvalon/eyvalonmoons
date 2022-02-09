@@ -4,12 +4,12 @@
 <img src="https://emoons.eyvalongames.de/img/eyvalonmoons.png">
 </p>
 
-The browsergame framework is based on the New-Star web browser game engine
+EyvalonMoons was created with the open source WebBrowser GameEngine
 [New-Star - github.com/Yaro2709/New-Star](https://github.com/Yaro2709/New-Star)</br>
-and the open source browsergame framework
+and is based on the the open source browsergame
 [2Moons - github.com/jkroepke/2Moons](https://github.com/jkroepke/2Moons). 
 
-The browsergame is for the Eyvalon Community purposes. The opportunity was given to change the game code by the Eyvaloniers as a contribution to 2Moons.
+The browsergame is for the Eyvalon Community purposes. The opportunity was given to change the game code by the Eyvaloniers as a contribution to New-Star/2Moons.
 There are many things to modify starting from **graphics, languages, code improvements up to EyvalonGames integration and bughunting**.
 
 ## Repository structure
